@@ -1,5 +1,5 @@
 # Market Close Predictor
-A prediction model built in Python to estimate the closing price and volume of stocks based on historic data.
+A prediction model built in Python to estimate the closing price and volume of stocks based on historical data.
 
 Created as part of APAC Hackathon 2018 organised by Credit Suisse.
 
